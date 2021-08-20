@@ -59,7 +59,7 @@
     /* background: url('/images/foodlemon.jpg'); */
     /* background: url('/images/kulcha.jpg'); */
     /* background: url('/images/tarts2.jpg'); */
-    background: url('/images/bar.jpg');
+    background: url('images/bar.jpg');
     width: 100%;
     height: 87%;
     background-size: cover;
