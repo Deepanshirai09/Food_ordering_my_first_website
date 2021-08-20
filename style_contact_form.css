@@ -259,7 +259,7 @@ ul li a:hover{
 #home::before{
     content: "";
     position: absolute;
-    background: url('/images/foodlemon.jpg');
+    background: url('images/foodlemon.jpg');
     /* background: url('/images/kulcha.jpg'); */
     /* background: url('/images/tarts2.jpg'); */
     width: 100%;
