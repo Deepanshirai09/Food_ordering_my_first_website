@@ -98,7 +98,7 @@ ul{
     position: absolute;
     height: 100%;
     width: 100%;
-    background: url('/images/bowlcookedfood.jpg');
+    background: url('images/bowlcookedfood.jpg');
     /* background: url('/images/kulcha.jpg'); */
     /* background: url('/images/tarts2.jpg'); */
     background-size: cover;
@@ -153,7 +153,7 @@ small{
 }
 #service .images{
     /* position: absolute; */
-    background-image: url('/images/burger.jpg');
+    background-image: url('images/burger.jpg');
     z-index: -1;
     opacity:0.75;
     background-repeat: no-repeat;
@@ -170,37 +170,37 @@ small{
 }
 @keyframes slider{
     0%{
-        background-image: url('/images/food6cutout.jpg');
+        background-image: url('images/food6cutout.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover ;
     }
     20%{
-        background-image: url('/images/greymeltedchicken1cutout.jpg');
+        background-image: url('images/greymeltedchicken1cutout.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover ;      
     }
     40%{
-        background-image: url('/images/food4.jpg');
+        background-image: url('images/food4.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover ; 
     }
     60%{
-        background-image: url('/images/food7cutout.jpg');
+        background-image: url('images/food7cutout.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover ;
     }
     80%{
-        background-image: url('/images/food8cutout.jpg');
+        background-image: url('images/food8cutout.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover ;
     }
     100%{
-        background-image: url('/images/food11cutout.jpg');
+        background-image: url('images/food11cutout.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover ;
@@ -208,124 +208,124 @@ small{
 
 }
 #cupcakes .images{
-    background-image: url('/images/cupcakes3.jpg');
+    background-image: url('images/cupcakes3.jpg');
     animation: slider2 40s infinite ease;
     animation-duration: 30s;
     animation-delay: 2s;
 }
 @keyframes slider2{
 0% {
-    background-image: url('/images/cupcake1.webp');
+    background-image: url('images/cupcake1.webp');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 10% {
-    background-image: url('/images/dessert16.jpg');
+    background-image: url('images/dessert16.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 20% {
-    background-image: url('/images/dessert13.jpg');
+    background-image: url('images/dessert13.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 30% {
-    background-image: url('/images/dessert1.jpg');
+    background-image: url('images/dessert1.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 40% {
-    background-image: url('/images/dessert2cutout.jpg');
+    background-image: url('images/dessert2cutout.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 50% {
-    background-image: url('/images/dessert3.jpg');
+    background-image: url('images/dessert3.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 60% {
-    background-image: url('/images/dessert5.jpg');
+    background-image: url('images/dessert5.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 70% {
-    background-image: url('/images/dessert7.jpg');
+    background-image: url('images/dessert7.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 80% {
-    background-image: url('/images/dessert8.jpg');
+    background-image: url('images/dessert8.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 90% {
-    background-image: url('/images/dessert9.jpg');
+    background-image: url('images/dessert9.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 100% {
-    background-image: url('/images/dessert14.jpg');
+    background-image: url('images/dessert14.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 }
 #drink .images{
-    background-image: url('/images/drink5.jpg');
+    background-image: url('images/drink5.jpg');
     animation: slider3 40s infinite ease;
     animation-duration: 30s;
     animation-delay: 2s;
 }
 @keyframes slider3{
     0% {
-        background-image: url('/images/drink5.jpg');
+        background-image: url('images/drink5.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
     }
     16.6% {
-        background-image: url('/images/drink1.jpg');
+        background-image: url('images/drink1.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
     }
     33.2% {
-        background-image: url('/images/cutout1drink2.jpg');
+        background-image: url('images/cutout1drink2.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
     }
     49.8% {
-        background-image: url('/images/drink4.jpg');
+        background-image: url('images/drink4.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
     }
     66.4% {
-        background-image: url('/images/drink6.jpg');
+        background-image: url('images/drink6.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
     }
     83% {
-        background-image: url('/images/drink7.jpg');
+        background-image: url('images/drink7.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
     }
     16.6% {
-        background-image: url('/images/drink8.jpg');
+        background-image: url('images/drink8.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
